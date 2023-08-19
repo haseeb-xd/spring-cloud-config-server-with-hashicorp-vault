@@ -13,3 +13,8 @@ It can support various backends, including Git repositories, the local file syst
 ## Unveiling HashiCorp Vault
 
 HashiCorp Vault takes a step further by providing a secure and robust solution for managing secrets and sensitive data. It offers encryption, access control, and dynamic secrets generation, making it an ideal tool for safeguarding your application's sensitive configuration information.
+
+
+Checkout my [Hashnode](https://spring-world.hashnode.dev/configuration-management-integrating-spring-cloud-config-server-with-hashicorp-vault) blog for steps and implementation!
+
+Happy coding! 🚀🔒🌟
